@@ -13,15 +13,15 @@ import Grid from '@mui/material/Grid2';
 const NAVIGATION = [
   {
     kind: 'header',
-    title: 'Main items',
+    title: 'Main itemss',
   },
   {
-    segment: 'dashboard',
+    segment: 'dashboards',
     title: 'Dashboard',
     icon: <DashboardIcon />,
   },
   {
-    segment: 'orders',
+    segment: 'orderss',
     title: 'Orders',
     icon: <ShoppingCartIcon />,
   },
